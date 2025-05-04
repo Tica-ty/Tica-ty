@@ -9,19 +9,25 @@
 ### ✨ About Me
 
 - 💖 I enjoy creating clean and beautiful websites
-- 🌱 Currently learning: **JavaScript** and **React**
+- 🌱 Currently learning: **JavaScript**, **React**, and **C#**
 - 🎯 Goals: Build more creative projects and improve my design skills
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at: [maraldashti87@gmail.com ](mailto:maraldashti87@gmail.com)
 
 ---
 
 ### 🧰 My Toolbox
 
 <p align="left">
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
 </p>
 
 ---
