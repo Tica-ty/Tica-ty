@@ -1,21 +1,21 @@
-<h1 align="center">Hi there 🎀 I'm Tica!</h1>
+<h1 align="center">Hi there🍥 I'm Tica!</h1>
 
 <p align="center">
-  🌸 Front-end Developer | 💻 Student | 🎨 UI Lover  
+   Front-end Developer |  Student  
 </p>
 
 ---
 
-### ✨ About Me
+###  About Me
 
-- 💖 I enjoy creating clean and beautiful websites
-- 🌱 Currently learning: **JavaScript**, **React**, and **C#**
-- 🎯 Goals: Build more creative projects and improve my design skills
-- 📫 Reach me at: [maraldashti87@gmail.com ](mailto:maraldashti87@gmail.com)
+- ☁️ I enjoy creating clean and beautiful websites
+- ☁️ Currently learning: **JavaScript**, **React**, and **C#**
+- ☁️ Goals: Build more creative projects and improve my design skills
+- ☁️ Reach me at: [maraldashti87@gmail.com ](mailto:maraldashti87@gmail.com)
 
 ---
 
-### 🧰 My Toolbox
+###  My Toolbox
 
 <p align="left">
   <!-- Frontend -->
@@ -34,18 +34,24 @@
 
 ### 📈 My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=rose_pine)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tica-ty&show_icons=true&theme=graywhite&hide_border=true&hide_rank=true&hide=prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tica-ty&layout=compact&theme=graywhite&hide_border=true)
 
 ---
 
-### 🌸 Fun Facts
+###  Fun Facts
 
-- 🧁 I love pastel colors (especially pink and lavender!)
-- 🎬 I enjoy watching romantic movies and cartoons
-- 🎵 Music helps me code better!
+- ☁️ I could get more coding done... if I didn’t spend so much time playing Stardew Valley!
+
+- ☁️ I might be a fake programmer, I drink tea instead of coffee all the time!
+
+- ☁️ I’m in love with mushrooms and frogs
+
+
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F58EB4&width=435&lines=Thanks+for+visiting+my+profile!+💖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1EFEC&width=435&lines=Thanks+for+visiting+my+profile!+🍥" />
 </p>
