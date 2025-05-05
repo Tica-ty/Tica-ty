@@ -8,7 +8,7 @@
 
 ###  About Me
 
-- ☁️ I enjoy creating clean and beautiful websites
+- ☁️ Try to creating clean and fun websites
 - ☁️ Currently learning: **JavaScript**, **React**, and **C#**
 - ☁️ Goals: Build more creative projects and improve my design skills
 - ☁️ Reach me at: [maraldashti87@gmail.com ](mailto:maraldashti87@gmail.com)
