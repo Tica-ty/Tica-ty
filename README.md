@@ -1,7 +1,8 @@
 <h1 align="center">Hi there🍥 I'm Tica!</h1>
 
 <p align="center">
-   Front-end Developer |  Student  
+   Front-end Developer |  Game Developer | student
+   
 </p>
 
 ---
@@ -10,7 +11,7 @@
 
 - ☁️ Try to creating clean and fun websites
 - ☁️ Currently learning: **JavaScript**, **C#**, and **Unity**
-- ☁️ Goals: Build more creative projects and improve my design skills
+- ☁️ Goals: Build more creative projects and improve my skills
 - ☁️ Reach me at: [maraldashti87@gmail.com ](mailto:maraldashti87@gmail.com)
 
 ---
